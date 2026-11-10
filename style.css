@@ -1,0 +1,151 @@
+body {
+    margin: 30px 15%;
+    background-color: #fff9eb;
+}
+
+.p1 {
+    margin-bottom: 16px;
+}
+
+.left {
+    margin-right: calc(100% - 129.36px - 322.81px);
+}
+
+.hero {
+    margin-top: 32px;
+    padding-bottom: 32px;
+    border-bottom: 2px solid #cab789;
+}
+
+.ingresteps-box {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.photo-box {
+    display: inline-block;
+    width: 48%;
+    margin-right: 2%;
+}
+
+.description-box {
+    margin-top: 63px;
+    display: inline-block;
+    width: 48%;
+    margin-left: 2%;
+    vertical-align: top;
+}
+
+.ingredients-box {
+    display: inline-block;
+    width: 48%;
+    margin-right: 2%;
+    vertical-align: top;
+}
+
+.steps-box {
+    display: inline-block;
+    width: 48%;
+    margin-left: 2%;
+    vertical-align: top;
+}
+
+.image {
+    width: 100%;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p,
+li {
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+li{
+    margin-bottom: 6px;
+}
+
+h1,
+h2 {
+    font-family: serif;
+    margin-bottom: 12px;
+    color: #2e291a;
+    margin-top: 0px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+ul {
+    margin: 0;
+}
+
+.attribution-text {
+    text-align: justify;
+    font-family: monospace;
+    font-size: 12px;
+    color: #2e291a;
+}
+
+.attribution-link:link {
+    color: #2e291a;
+    font-weight: bold;
+    font-family: monospace;
+    text-decoration: none;
+}
+
+.attribution-link:visited {
+    color: #2e291a;
+
+}
+
+.attribution-link:hover {
+    color: #a9996f;
+    text-decoration: underline;
+}
+
+.button {
+    display: inline-block;
+    font-family: sans-serif;
+    padding: 12px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #605741;
+    text-decoration: none;
+    border-top: rgb(167, 167, 167) solid 3px;
+    border-left: rgb(167, 167, 167) solid 3px;
+    border-bottom: rgb(71, 71, 71) solid 3px;
+    border-right: rgb(71, 71, 71) solid 3px;
+    border-radius: 5px;
+}
+
+.button:link {
+    color: #cab789;
+}
+
+.button:visited {
+    color: #cab789;
+}
+
+.button:hover {
+    color: white;
+    background-color: #a9996f;
+}
+
+.button:active {
+    border-bottom: rgb(167, 167, 167) solid 3px;
+    border-right: rgb(167, 167, 167) solid 3px;
+    border-top: rgb(71, 71, 71) solid 3px;
+    border-left: rgb(71, 71, 71) solid 3px;
+}
+
+ol,
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
