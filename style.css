@@ -7,8 +7,24 @@ body {
     margin-bottom: 16px;
 }
 
-.left {
+.doner {
     margin-right: calc(100% - 129.36px - 322.81px);
+}
+
+.banh {
+    margin-right: calc(100% - 129.36px - 296.63px);
+}
+
+.mortadella {
+    margin-right: calc(100% - 129.36px - 316.06px);
+}
+
+.vada {
+    margin-right: calc(100% - 129.36px - 313.48px);
+}
+
+.torta {
+    margin-right: calc(100% - 129.36px - 301.28px);
 }
 
 .hero {
