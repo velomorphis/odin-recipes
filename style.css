@@ -232,3 +232,7 @@ NOTE: margin: 0px auto; only works for block elements
 133.23
 97.5
 120.81 */
+
+.highlight {
+    font-weight: bold;
+}
