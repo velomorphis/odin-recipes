@@ -110,7 +110,7 @@ h1 {
     color: #2e291a;
     font-weight: bold;
     font-family: monospace;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 .attribution-link:visited {
@@ -120,7 +120,7 @@ h1 {
 
 .attribution-link:hover {
     color: #a9996f;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .button {
