@@ -196,8 +196,6 @@ ul {
 .spec3,
 .spec4,
 .spec5 {
-    box-sizing: border-box;
-    margin: 0px auto;
     display: block;
     text-align: center;
     font-size: 22px;
